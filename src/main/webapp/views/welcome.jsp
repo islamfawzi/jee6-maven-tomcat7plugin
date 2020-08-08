@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Welcome</title>
+<title>Welcome ${name}</title>
 </head>
 <body>
-<h1>Hello from the JSP file</h1>
+<h1>Hello ${name} from the JSP file</h1>
 </body>
 </html>
